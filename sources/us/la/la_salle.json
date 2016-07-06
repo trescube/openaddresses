@@ -1,0 +1,22 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "22059",
+            "name": "La Salle Parish",
+            "state": "Louisiana"
+        },
+        "country": "us",
+        "state": "la",
+        "county": "La Salle"
+    },
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/LaSalle_Services/MapServer/4",
+    "type": "ESRI",
+    "conform": {
+        "type": "geojson",
+        "number": "Address_Nu",
+        "street": [
+            "Street_Nam",
+            "Street_Dir"
+        ]
+    }
+}
