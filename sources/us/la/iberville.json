@@ -1,0 +1,22 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "22047",
+            "name": "Iberville Parish",
+            "state": "Louisiana"
+        },
+        "country": "us",
+        "state": "la",
+        "county": "Iberville"
+    },
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/Iberville_Services/MapServer/10",
+    "type": "ESRI",
+    "conform": {
+        "type": "geojson",
+        "number": "STRNUM",
+        "street": "STREET_nam",
+        "unit": "APT_OR_LOT",
+        "city": "CITY",
+        "region": "state"
+    }
+}
