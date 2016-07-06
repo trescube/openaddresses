@@ -1,0 +1,19 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "22041",
+            "name": "Franklin Parish",
+            "state": "Louisiana"
+        },
+        "country": "us",
+        "state": "la",
+        "county": "Franklin"
+    },
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/Franklin_Services/MapServer/0",
+    "type": "ESRI",
+    "conform": {
+        "type": "geojson",
+        "number": "ADDRESS",
+        "street": "FullName"
+    }
+}
