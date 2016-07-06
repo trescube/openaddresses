@@ -1,0 +1,21 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "2239475",
+            "name": "City of Kenner",
+            "state": "Louisiana"
+        },
+        "country": "us",
+        "state": "la",
+        "city": "Kenner"
+    },
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/Kenner_Services/MapServer/1",
+    "type": "ESRI",
+    "conform": {
+        "type": "geojson",
+        "number": "ADDRESS",
+        "street": "STREET",
+        "unit": "SUITE",
+        "postcode": "ZIP",
+    }
+}
