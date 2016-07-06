@@ -1,0 +1,21 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "2231915",
+            "name": "City of Gretna",
+            "state": "Louisiana"
+        },
+        "country": "us",
+        "state": "la",
+        "city": "Gretna"
+    },
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/GretnaPublic/MapServer/1",
+    "type": "ESRI",
+    "conform": {
+        "type": "geojson",
+        "number": "ADDRESS",
+        "street": "STREET",
+        "city": "AREA_NAME",
+        "postcode": "ZIP"
+    }
+}
