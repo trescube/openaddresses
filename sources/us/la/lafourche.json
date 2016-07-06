@@ -1,0 +1,19 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "22057",
+            "name": "Lafourche Parish",
+            "state": "Louisiana"
+        },
+        "country": "us",
+        "state": "la",
+        "county": "Lafourche"
+    },
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/LaFourche_Services/MapServer/5",
+    "type": "ESRI",
+    "conform": {
+        "type": "geojson",
+        "number": "NUM",
+        "street": "ST_COMP"
+    }
+}
