@@ -1,0 +1,19 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "28073",
+            "name": "Lamar County",
+            "state": "Mississippi"
+        },
+        "country": "us",
+        "state": "ms",
+        "county": "Lamar"
+    },
+    "type": "ESRI",
+    "data": "http://services.geoportalmaps.com/arcgis/rest/services/LamarCounty_Services/MapServer/59",
+    "conform": {
+        "type": "geojson",
+        "number": "StreetNumber",
+        "street": "StreetName"
+    }
+}
